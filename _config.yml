@@ -12,7 +12,7 @@ url: "https://panossakkos.github.io"
 #
 # NB! Without this *nothing* will work, because it's used in every path :)
 
-baseurl: /gaelith.github.IO
+baseurl: /gaelith.github.io
 
 # Google tracking id
 
@@ -29,8 +29,8 @@ force-https: True
 #############
 
 lang: "en"
-author: "John Smith"
-title: "{ John Smith }"
+author: "Robin Seckler"
+title: "{ Robin Seckler }"
 description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
 keywords: "smith, jones, personal, jekyll, theme"
 favicon: "/img/favicon.ico"
@@ -165,7 +165,7 @@ err-404-img: "/img/labtocat.png"
 # GPG on Keybase #
 ##################
 
-keybase-username: Gaelith
+keybase-username: gaelith
 keybase-in-social: True
 keybase-in-footer: True
 
