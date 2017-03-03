@@ -28,7 +28,7 @@ force-https: True
 # HTML Head #
 #############
 
-lang: "en"
+lang: "fr"
 author: "Robin Seckler"
 title: "{ Robin Seckler }"
 description: "Site web pour présenter mes compétences et mon parcours scloaire et professionnel"
@@ -102,7 +102,7 @@ pinterest-share: False
 pocket-share: False
 vkontakte-share: False
 
-disqus-shortname: "gaelith"
+disqus-shortname: ""
 
 syntax-highlight: True
 
@@ -115,7 +115,7 @@ events:
     date: "Novembre 2015 - Aujourd'hui"
     description: "BTS Service Informatique aux Organisations - CFA CCI Strasbourg"
   - image: "/img/timeline/epitech-logo.png"
-    date: "Septembre 20013 - Juin 2015"
+    date: "Septembre 2013 - Juin 2015"
     description: "Epitech - école de l'innovation et de l'expertise informatique"
   - image: "/img/timeline/elec.png"
     date: "Spetembre 2008 - Juin 2011"
@@ -139,7 +139,7 @@ email: "robin.seckler@gmx.fr"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: ""
+author_blurb: "Boop!"
 author_blurb_image: "/img/me.jpg"
 
 ##################
@@ -149,14 +149,14 @@ author_blurb_image: "/img/me.jpg"
 social:
   - title: "facebook"
     url: "https://facebook.com/robin.seckler.9"
-  - title: "twitter"
-    url: "https://twitter.com/"
+#  - title: "twitter"
+#    url: "https://twitter.com/"
   - title: "github"
     url: "https://github.com/Gaelith"
-  - title: "bitcoin"
-    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
-  - title: "rss"
-    url: "/feed.xml"
+#  - title: "bitcoin"
+#    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
+#  - title: "rss"
+#    url: "/feed.xml"
 
 ############
 # 404 page #
@@ -180,7 +180,7 @@ keybase-in-footer: False
 
 pages_list:
   Présentation: 'about'
-  Blog: 'latest-post'
+#  Blog: 'latest-post'
   Parcours: 'timeline'
   Contact: 'contact'
 
