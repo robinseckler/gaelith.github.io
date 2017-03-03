@@ -31,8 +31,8 @@ force-https: True
 lang: "en"
 author: "Robin Seckler"
 title: "{ Robin Seckler }"
-description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
-keywords: "smith, jones, personal, jekyll, theme"
+description: "Site web pour présenter mes compétences et mon parcours scloaire et professionnel"
+keywords: "Seckler, Robin, jekyll"
 favicon: "/img/favicon.ico"
 
 ################
@@ -48,7 +48,7 @@ background-img: "../img/website-bg.jpg"
 ##############################
 
 dynamic-typing: True
-shuffle: True # Shuffle the lines.
+shuffle: False # Shuffle the lines.
 loop: True
 loop-count: False # Set False for infinite loop, or set any number for finite loop.
 type-speed: 10
@@ -117,6 +117,9 @@ events:
   - image: "/img/timeline/epitech-logo.png"
     date: "Septembre 20013 - Juin 2015"
     description: "Epitech - école de l'innovation et de l'expertise informatique"
+  - image: "/img/timeline/elec.png"
+    date: "Spetembre 2008 - Juin 2011"
+    description: "Bac Pro ELEEC - Lycée Jean-Baptiste Schwilgué Sélestat"
 
 # First image of the Timeline
 
@@ -176,9 +179,9 @@ keybase-in-footer: False
 # Sections shown in the index page
 
 pages_list:
-  About: 'about'
+  Présentation: 'about'
   Blog: 'latest-post'
-  Timeline: 'timeline'
+  Parcours: 'timeline'
   Contact: 'contact'
 
 # Exclusion list from the generated _site
