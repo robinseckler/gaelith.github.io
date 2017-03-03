@@ -41,7 +41,7 @@ favicon: "/img/favicon.ico"
 
 black-favicon: "/img/black-lab-glass.ico"
 
-background-img: "../img/intro-bg.jpg"
+background-img: "../img/website-bg.jpg"
 
 ##############################
 # Dynamic Text on the Header #
@@ -55,10 +55,10 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "The lower you fall, the higher you'll fly."
-  - text: "Where’s your will to be weird?"
+  - text: "Wellcome to my website."
+  - text: "It is still under construction !"
 
-me-img: "/img/jetpacktocat.png"
+me-img: "/img/me.jpg"
 
 ##############################
 # Color the browser elements #
@@ -93,14 +93,14 @@ paginate: 5
 
 email-share: True
 fb-share: True
-twitter-share: True
+twitter-share: False
 linkedin-share: True
-reddit-share: True
+reddit-share: False
 google-plus-share: True
 tumblr-share: True
-pinterest-share: True
-pocket-share: True
-vkontakte-share: True
+pinterest-share: False
+pocket-share: False
+vkontakte-share: False
 
 disqus-shortname: "panossakkos"
 
@@ -126,7 +126,7 @@ timeline-img: "/img/timeline/default.png"
 # Contact #
 ###########
 
-email: "your@email.here"
+email: "robin.seckler@gmx.fr"
 
 ################
 # Author Blurb #
@@ -145,11 +145,11 @@ author_blurb_image: "/img/author.png"
 
 social:
   - title: "facebook"
-    url: "https://facebook.com/"
+    url: "https://facebook.com/robin.seckler.9"
   - title: "twitter"
     url: "https://twitter.com/"
   - title: "github"
-    url: "https://github.com/PanosSakkos/personal-jekyll-theme"
+    url: "https://github.com/Gaelith"
   - title: "bitcoin"
     url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
   - title: "rss"
@@ -166,8 +166,8 @@ err-404-img: "/img/labtocat.png"
 ##################
 
 keybase-username: gaelith
-keybase-in-social: True
-keybase-in-footer: True
+keybase-in-social: False
+keybase-in-footer: False
 
 ################################################################################
 
